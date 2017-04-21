@@ -13,7 +13,6 @@ import csv
 import os
 import cv2
 import time
-get_ipython().magic('matplotlib inline')
 
 ImgDir=r'C:\Users\User\Desktop\CarND_BehaviorCloning\windows_sim\TrainingData\IMG\\'
 LogFile=r'C:\Users\User\Desktop\CarND_BehaviorCloning\windows_sim/TrainingData/driving_log.csv'
